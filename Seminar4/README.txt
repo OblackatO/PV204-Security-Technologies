@@ -1,3 +1,5 @@
-There is an additional file: simpleAPDU_seminar_tasks.java ; where the tasks of the seminar are 
-, if that is not needed, please ignore that file.
-
+# What is about 
+The point of this assignment was to put some code in a smartcard while installing 
+its applet(firmware). After, in order to do some operation
+with the processor of the card(encryption/signature) we should ask for that code first. 
+ 
