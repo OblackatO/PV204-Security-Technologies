@@ -1,7 +1,7 @@
-# WHat is it about?
-We had to bruteforce a disk full encrypted with a weak password.
-This was not the main part of the assignment. The point of the assignment 
-was to analyzed the cyphers and keys used to make tis encryption, using a
-snapshot of the virtual machine running the encrypted disk. 
-My observations and conclusions, as well as the scripts I used to accomplish 
-this assignment can be found here.  
+# What is it about?
+The point of this assignment was to detect what some program required when
+it was trying to get a license in order to function. It was necessary to reverse
+engineer the program and analyze its CPU commands, and change its behavior 
+so it does not require the license anymore in order to continue. 
+We were also required to understand the verification algorithm of the program
+and create a fake license for it. 
