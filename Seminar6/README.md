@@ -1,6 +1,6 @@
 # What is it about?
 The 1st part of this seminar was to analyze a memory snapshot of an infected windows machine.
-We should look for abnormal porceeses, internet connections, open ports, and any other factor
+We should look for abnormal processes, connections, open ports, and any other factor
 that was not normal.   
 
 The 2nd part of this seminar was dedicated to the blackbox analisis of an infected windows machine.
